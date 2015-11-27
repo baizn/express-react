@@ -1,0 +1,29 @@
+{
+  "name": "express-react",
+  "depedencies": {
+    "jquery": "^2.1.4",
+    "magnific-popup": "^1.0.0",
+    "toastr": "^2.1.1"
+  },
+  "authors": [
+    "baizn <cq_bzhn0214@sina.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
