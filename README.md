@@ -26,4 +26,5 @@ localhost:3000
 
 ### 参考资料
 https://github.com/sahat/newedenfaces-react
+
 http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
